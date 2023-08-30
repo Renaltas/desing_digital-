@@ -1,6 +1,6 @@
 escrevi outra coisa 
-<<<<<<< HEAD
+
  escrevi ooutra coisa 
-=======
+
 escrevi otra coisa 
->>>>>>> f4d4dc36c7d7a150462329598ed10f8143f8d8df
+
